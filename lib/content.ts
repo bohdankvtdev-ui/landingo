@@ -1,0 +1,15 @@
+export const site = {
+  name: "Bohdan",
+  shortName: "Bohdan",
+  role: "IT specialist · Web & design",
+  headline: "IT specialist for web, content, and day-to-day digital work.",
+  lede: "Open to web admin, site coordinator, email / marketing support, and tech support roles.",
+  location: "Remote · EU",
+  availability: "Open to IT & web roles",
+  year: "2026",
+  email: "hello@bohdan.dev",
+  resume: "/resume.pdf",
+  github: "https://github.com/bohdankvtdev-ui",
+  linkedin: "https://www.linkedin.com/in/bohdan-kvetka12/",
+  source: "https://github.com/bohdankvtdev-ui",
+};
